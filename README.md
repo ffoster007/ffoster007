@@ -16,7 +16,7 @@ Hey there! I’m a university student majoring in education, but my real passion
 src="https://img.shields.io/twitter/follow/ffoster007?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <a href="https://www.instagram.com/_9pennueng_/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ffoster007?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/instagram/follow/_9pennueng_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=E4405F"
 /></a>
 ### Skills
 
