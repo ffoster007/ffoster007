@@ -9,9 +9,10 @@ Hey there! I’m a university student majoring in education, but my real passion
 * 🌍  I'm based in Surin, Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
 
-<a href="https://www.x.com/ffoster007" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ffoster007?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://twitter.com/ffoster007" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/ffoster007?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
 <a href="https://www.instagram.com/_9pennueng_/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/follow-_9pennueng_-E4405F?logo=instagram&style=for-the-badge&labelColor=1c1917" />
 </a>
