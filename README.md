@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Students, Software Developer
 ----------------------------
 
-Hey there! I’m a university student majoring in education, but my real passion lies in technology and innovation. Even though my field of study is completely different from what I’m working on (haha), I’m currently diving into the world of startups, building my own project from scratch. I love exploring new ideas, tackling challenges, and pushing boundaries beyond what I’ve learned in class. Right now, I’m focused on developing a startup that blends creativity with cutting-edge technology. It’s a wild ride, but I’m all in!
+Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't like studying this major at all. But never mind. Now I'm a programmer who is currently running my own startup!
 
 * 🌍  I'm based in Surin, Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
