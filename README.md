@@ -18,7 +18,7 @@ Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't
 
 ### Skills
 ---
-### Skills
+### Programing Language
 
 
 <p align="left">
