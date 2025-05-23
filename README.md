@@ -18,7 +18,6 @@ Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't
 
 ### Skills
 ---
-<p align="left">
 ### Skills
 
 
