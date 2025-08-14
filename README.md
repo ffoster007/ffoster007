@@ -11,10 +11,10 @@ Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't
 <a href="https://twitter.com/ffoster007" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/follow-ffoster007-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" />
 </a>
-
+<!-- 
 <a href="https://www.instagram.com/_9pennueng_/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/follow-_9pennueng_-E4405F?logo=instagram&style=for-the-badge&labelColor=1c1917" />
-</a>
+</a> -->
 
 ### Skills
 ---
