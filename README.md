@@ -6,15 +6,7 @@ Founder ● Investor ● Students ● Software Developer
 Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't like studying this major at all. But never mind. Now I'm a programmer who is currently running my own startup!
 
 * 🌍  I'm based in Surin, Thailand
-* ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
-
-<a href="https://twitter.com/ffoster007" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/follow-ffoster007-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" />
-</a>
-<!-- 
-<a href="https://www.instagram.com/_9pennueng_/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/follow-_9pennueng_-E4405F?logo=instagram&style=for-the-badge&labelColor=1c1917" />
-</a> -->
+* ✉️  You can contact me at [phugbzzkerza@gmail.com](mailto:phugbzzkerza@gmail.com)
 
 ### Skills
 ---
