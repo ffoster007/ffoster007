@@ -7,3 +7,5 @@ Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't
 
 * 🌍  I'm based in Surin, Thailand
 * ✉️  You can contact me at [phugbzzkerza@gmail.com](mailto:phugbzzkerza@gmail.com)
+*
+  [![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,go,rust,nextjs,linux,postgres)](https://skillicons.dev)
