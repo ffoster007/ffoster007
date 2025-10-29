@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Founder ● Students ● Software Developer
 ----------------------------
 
-Hi, I'm nueng,  university students bachelor's degree about teacher. But I don't like studying this major at all. But never mind. Now I'm a programmer who is currently running my own startup!
+Hi, I'm nueng 20Y,  university students bachelor's degree about teacher. But I don't like studying this major at all. But never mind. Now I'm a programmer who is currently running my own startup!
 
 * 🌍  I'm based in Surin, Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
