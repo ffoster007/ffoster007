@@ -8,4 +8,4 @@ Hi, I'm nueng 20Y,  university students bachelor of Education program. Now I'm a
 * 🌍  I'm based in Surin, Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
   
-[![My Skills](https://skillicons.dev/icons?i=py,ts,c,cpp,go,rust,nextjs,linux,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,c,cpp,go,rust,nextjs,linux,bash,postgres)](https://skillicons.dev)
