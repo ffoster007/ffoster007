@@ -5,7 +5,7 @@ Founder ● Students ● Software Developer
 
 Hi, I'm nueng 20Y,  university students bachelor of Education program. Now I'm a Software  Developer, Security software developer, Ethical Hacker who is currently running my own startup!
 
-* 🌍  I'm based in Surin, Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
   
 [![My Skills](https://skillicons.dev/icons?i=py,ts,c,cpp,go,rust,nextjs,linux,bash,postgres)](https://skillicons.dev)
