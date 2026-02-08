@@ -9,3 +9,10 @@ Hi, I'm nueng 20Y. Now I'm a Software  Developer, Security software developer, E
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
   
 [![My Skills](https://skillicons.dev/icons?i=py,ts,c,cpp,go,rust,nextjs,linux,bash,postgres)](https://skillicons.dev)
+
+---
+<p align="center">
+  <a href="#" target="_blank" rel="noopener">
+    <img src="resource/ffoster007.png" alt="avacx" />
+  </a>
+</p>
