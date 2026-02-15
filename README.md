@@ -13,6 +13,6 @@ Hi, I'm nueng 20Y. Now I'm a Software  Developer, Security software developer, E
 ---
 <p align="center">
   <a href="#" target="_blank" rel="noopener">
-    <img src="resource/ffoster.png" alt="avacx" />
+    <img src="resource/ffoster007.png" />
   </a>
 </p>
