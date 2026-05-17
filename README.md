@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Founder ● Students ● Software Developer
 ----------------------------
 
-Hi, I'm nueng 20Y. Now I'm a Software  Developer, Security software developer, Ethical Hacker 
+Hi, I'm nueng 20Y. Now I'm a Software  Developer, Ethical Hacker 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
