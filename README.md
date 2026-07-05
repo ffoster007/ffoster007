@@ -8,7 +8,7 @@ Hi, I'm nueng 20Y. Now I'm a Software  Developer, Ethical Hacker
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [penhnungcaphuli@gmail.com](mailto:penhnungcaphuli@gmail.com)
   
-[![My Skills](https://skillicons.dev/icons?i=ts,c,cpp,go,rust,nextjs,linux,bash,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,c,cpp,go,rust,nextjs,linux,bash,postgres)](https://skillicons.dev)
 
 ---
 <p align="center">
